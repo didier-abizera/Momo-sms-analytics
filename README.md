@@ -11,7 +11,7 @@ This project processes MoMo (Mobile Money) SMS transaction data provided in XML 
 - Provide a frontend dashboard to visualize and analyze the transaction data
 
 ## Architecture Diagram
-(link to be added)
+ ![Architecture Diagram](architecture-diagram.png)
 
 ## Scrum Board
 (link to be added)
